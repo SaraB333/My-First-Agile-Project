@@ -9,7 +9,12 @@ assignees: ''
 
 As a **role**, I can **capability**, so that **recieved benifit**.
 
-## Acceptance Criteria:
+# Acceptance Criteria:
 * a.
 * b.
 * c.
+
+## Tasks
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
